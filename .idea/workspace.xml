@@ -31,7 +31,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ThucHanh2_Android_TabLayout" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -159,7 +159,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681903108506</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="th2 android voi tablayout">
+      <created>1681964187172</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681964187173</updated>
+    </task>
+    <task id="LOCAL-00004" summary="th2 android voi tablayout">
+      <created>1681964331377</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681964331377</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,7 +189,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="th2 android voi navigation bottom" />
-    <option name="LAST_COMMIT_MESSAGE" value="th2 android voi navigation bottom" />
+    <MESSAGE value="th2 android voi tablayout" />
+    <option name="LAST_COMMIT_MESSAGE" value="th2 android voi tablayout" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

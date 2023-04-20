@@ -82,6 +82,7 @@ public class FragmentToday extends Fragment implements RecycleViewAdapter.ItemLi
         SimpleDateFormat date = new SimpleDateFormat("dd/MM/yyyy");
         List<Item> list = db.getByDate(date.format(d));
         if (list.size()==0){
+            adapter.setList(list);
             total_txt.setText("Hom nay khong co chi tieu");
         }
         else {
