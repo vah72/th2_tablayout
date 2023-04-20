@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category">
+        <item>Mua sam</item>
+        <item>Tien an</item>
+        <item>Tien nha</item>
+        <item>Tien dien</item>
+        <item>Tien nuoc</item>
+        <item>Khac</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="colorBlue">#3395ff</color>
+    <color name="colorGreen">#8BC34A</color>
+    <color name="colorNorth">#FF5722</color>
+    <color name="colorOrange">#FE9B07</color>
+    <color name="colorPink">#f64c73</color>
+    <color name="colorYellow">#FEC007</color>
+    <color name="light_grey">#91908F</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">ThucHanh2_Android</string>
+    <style name="Theme.ThucHanh2_Android" parent="Theme.MaterialComponents.DayNight.DarkActionBar.Bridge">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

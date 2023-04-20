@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\drawable_icon_add.xml.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\drawable\\icon_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.thuchanh2_android.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.thuchanh2_android.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\drawable_icon_remove.xml.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\drawable\\icon_remove.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\layout_fragment_today.xml.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\layout\\fragment_today.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\drawable_icon_calendar.xml.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\drawable\\icon_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\drawable_icon_search.xml.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\drawable\\icon_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\layout_item_spinner.xml.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\layout\\item_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\drawable_icon_history.xml.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\drawable\\icon_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\color_nav_color.xml.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\color\\nav_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\drawable_bg_edit_text.xml.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\drawable\\bg_edit_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\menu_navigation.xml.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\menu\\navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\layout_item.xml.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\layout_fragment_search.xml.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\layout_fragment_history.xml.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\layout\\fragment_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\layout_activity_add.xml.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-merged_res-29:\\layout_activity_update.xml.flat",
+        "source": "C:\\Users\\hoang\\.gradle\\daemon\\7.5\\com.example.thuchanh2_android.app-main-31:\\layout\\activity_update.xml"
+    }
+]
